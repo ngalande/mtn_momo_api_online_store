@@ -1,0 +1,19 @@
+{
+  "name": "zshop_backend",
+  "version": "1.0.0",
+  "description": "backend api for online stor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "blessings ngalande",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dot-env": "^0.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mtn-momo": "^2.0.0"
+  }
+}
